@@ -47,6 +47,7 @@ print(solution)
 
 ## Output:
 ![image](https://github.com/sharmitha3/LU-Decomposition/assets/145974496/c1751134-de0a-44c7-a142-962e45b8fc4c)
+
 ![image](https://github.com/sharmitha3/LU-Decomposition/assets/145974496/2cd4eaca-8b28-414c-b23f-5ee664389170)
 
 ## Result:
